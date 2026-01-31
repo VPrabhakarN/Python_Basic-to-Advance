@@ -10,6 +10,5 @@ elif num % 2 != 0:
     print(f"{num} is an Odd number")
 else:
     print("Invalid Input !!! Please enter a valid number !!")
-
     
 
