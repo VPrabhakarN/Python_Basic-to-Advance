@@ -1,4 +1,4 @@
-# Question : Write a program to input any character and check whether it is alphabet, digit or special character.
+# Question : Write a program to check the number is positive or negative 
 
 # Taking the input from the user 
 ch = input("Enter the value : ")
