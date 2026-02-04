@@ -5,3 +5,4 @@ Q.3) Print numbers between 34 to 5
 Q.4) Write a program to print first 10 natural numbers.
 Q.5) Write a program to print first 10 even numbers.
 Q.6) Write a program to print first 10 odd numbers.
+Q.7) Write a program to print first 10 even numbers in reverse order.
