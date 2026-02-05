@@ -1,0 +1,2 @@
+# Questions 
+Q.1) Print a pattern of stars using nested for loops.
