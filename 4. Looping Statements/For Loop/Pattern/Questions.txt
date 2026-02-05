@@ -1,2 +1,3 @@
 # Questions 
 Q.1) Print a pattern of stars using nested for loops.
+Q.2) Print Square Star Pattern.
