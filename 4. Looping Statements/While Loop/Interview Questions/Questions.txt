@@ -1,3 +1,4 @@
 # Questions 
 
 Q.1) Write a program to check whether the number is Automorphic number. (Ex. -> Sq of 5 ends with 5, Sq of 25 ends with 25)
+Q.2) Write a program to check whether the number is Palindrome number. (Ex. -> 121 it's reserse : 121)
