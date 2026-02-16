@@ -12,10 +12,10 @@ print(a)
 
 # Iterating the list (Way 1)
 for item in a :
-    print(item, end=", ")
+    print(item, end=" ")
     
 print()
     
 # Iterating the list (Way 2)
 for i in range(len(a)) :
-    print(a[i], end=", ") 
+    print(a[i], end=" ") 

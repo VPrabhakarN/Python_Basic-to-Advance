@@ -9,10 +9,10 @@ print(a)
 
 # Iterating the list (1st way)
 for item in a :
-    print(item, end=", ")
+    print(item, end=" ")
     
 print()
     
 # Iterating the list (2nd way)
 for i in range(len(a)) :
-    print(a[i], end=", ")
+    print(a[i], end=" ")
