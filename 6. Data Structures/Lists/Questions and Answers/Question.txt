@@ -1,0 +1,2 @@
+# Questions 
+Q.1) Create a list, take input from the user and find the total Sum & Average list elements.
