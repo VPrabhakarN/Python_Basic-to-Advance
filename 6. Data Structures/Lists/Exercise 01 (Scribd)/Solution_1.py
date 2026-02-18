@@ -9,3 +9,5 @@ for number in numbers :
     sum += number
     
 # Displaying the sum of all the items in a list
+print(f"List : {numbers}")
+print(f"Sum of all items in list : {sum}")
