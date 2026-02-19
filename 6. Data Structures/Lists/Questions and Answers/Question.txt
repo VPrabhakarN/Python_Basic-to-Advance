@@ -2,4 +2,4 @@
 Q.1) Create a list, take input from the user and find the total Sum & Average list elements.
 Q.2) Find the largest element in the list along with it's index.
 Q.3) Find the 2nd largest element in the list along with it's index.
-Q.4) 
+Q.4) CHeck the list is sorted or not.
