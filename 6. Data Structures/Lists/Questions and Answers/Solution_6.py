@@ -5,7 +5,7 @@ numbers = [10, 20, 30, 40, 50]
 
 print(f"List before : {numbers}")
 
-# Shifting all the elements one position to the left
+# Shifting all the elements one position to the right
 for i in range(len(numbers)-1, 0, -1) :
     numbers[i], numbers[i-1] = numbers[i-1], numbers[i]
     
