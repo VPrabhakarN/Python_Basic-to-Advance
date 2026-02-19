@@ -5,4 +5,4 @@ Q.3) Find the 2nd largest element in the list along with it's index.
 Q.4) Check the list is sorted or not.
 Q.5) Left Rotation by 1 : Shift all the elements one position to the left, with the first element moving to end.
 Q.6) Right Rotation by 1 : Shift all the elements one position to the right, with the first element moving to end.
-Q.7) Reverse the list (In-Place) : Reverse the entire list without using extra space (i.e., swap elements)
+Q.7) Reverse the list (In-Place) : Reverse the entire list without using extra space (i.e., swap elements).
