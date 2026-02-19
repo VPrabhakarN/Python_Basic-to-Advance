@@ -1,2 +1,4 @@
 # Questions 
 Q.1) Create a list, take input from the user and find the total Sum & Average list elements.
+Q.2) Find the largest element in the list along with it's index.
+
