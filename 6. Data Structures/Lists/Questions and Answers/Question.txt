@@ -9,3 +9,4 @@ Q.7) Reverse the list (In-Place) : Reverse the entire list without using extra s
 Q.8) Linear Search : Search for a given element by checking each element one by one.
 Q.9) Binary Search : Search for a given element.
 Q.10) Bubble Sort : Sort the list.
+Q.11) Selection Sort : Sort the list.
