@@ -1,2 +1,2 @@
 # Questions 
-Q.1) Python – Sum of tuple elements
+Q.1)Sum of tuple elements
