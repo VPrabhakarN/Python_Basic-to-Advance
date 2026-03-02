@@ -2,3 +2,4 @@
 Q.1) Sum of tuple elements
 Q.2) Sum and Average of the tuple.
 Q.3) Remove elements from the tuple.
+Q.4) Check the element exist or not.
