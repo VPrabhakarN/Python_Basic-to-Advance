@@ -1,4 +1,4 @@
 # Questions 
 Q.1) Sum of tuple elements
 Q.2) Sum and Average of the tuple.
-Q.3) 
+Q.3) Remove elements from the tuple.
