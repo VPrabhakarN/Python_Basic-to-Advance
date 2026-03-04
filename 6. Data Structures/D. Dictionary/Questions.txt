@@ -1,3 +1,4 @@
 # Questions 
 Q.1) Count frequency of each element in an array.
 Q.2) Count frequency of characters in a string.
+Q.3) Find the most frequent element in an array.
