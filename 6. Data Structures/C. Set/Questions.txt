@@ -2,3 +2,4 @@
 Q.1) Symmetric Difference Finder : WAP to find the symmetric difference between two sets.
 q.2) Remove duplicates from a list using sets.
 Q.3) Find the union of two sets.
+Q.4) Find the intersection of two sets.
