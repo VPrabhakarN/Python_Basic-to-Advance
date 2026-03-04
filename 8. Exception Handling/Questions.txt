@@ -1,2 +1,3 @@
 # Questions :
 Q.1) Write a program to handle division by zero error.
+Q.2) Take user input and handle invalid integer input.
