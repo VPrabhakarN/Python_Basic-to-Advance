@@ -1,1 +1,2 @@
 # Questions :
+Q.1) Write a program to handle division by zero error.
