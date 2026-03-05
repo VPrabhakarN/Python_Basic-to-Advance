@@ -1,3 +1,4 @@
 # Questions :
 Q.1) You are given two lists. Use zip() to combine them into a list of tuples.
 Q.2) Use zip() to create a dictionary from two lists.
+Q.3) Using zip(), create a new list containing the sum of elements at the same index.
