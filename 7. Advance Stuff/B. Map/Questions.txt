@@ -1,1 +1,2 @@
 # Questions : 
+Q.1) Given a list of numbers, use map() to square each number.
