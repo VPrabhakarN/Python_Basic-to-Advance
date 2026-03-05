@@ -1,3 +1,4 @@
 # Questions :
 Q.1) Given a list of numbers, use filter() to return only even numbers.
 Q.2) Return numbers greater than 10 from a list.
+Q.3) Return only negative numbers from a list.
