@@ -1,1 +1,2 @@
 # Questions :
+Q.1) Given a list of numbers, use filter() to return only even numbers.
