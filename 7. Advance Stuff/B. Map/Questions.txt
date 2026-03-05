@@ -4,4 +4,5 @@ Q.2) Given a list of numbers, use map() to convert all numbers to strings.
 Q.3) Convert a list of strings to uppercase using map().
 Q.4) Given a list of numbers, use map() to add 10 to every number.
 Q.5) Convert a list of temperatures from Celsius to Fahrenheit.
+Q.6) Given a list of numbers, return True if number is even else False using map().
 
