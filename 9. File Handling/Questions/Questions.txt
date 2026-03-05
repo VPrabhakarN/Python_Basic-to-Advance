@@ -2,4 +2,3 @@
 Q.1) Write a program to read a file story.txt and print its entire content.
 Q.2) Read a file and print how many lines it contains?
 Q.3) Write a program to count total words in a file.
-Q.4) Find the most repeated word in a file.
