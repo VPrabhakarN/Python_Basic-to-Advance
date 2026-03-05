@@ -3,3 +3,4 @@ Q.1) Given a list of numbers, use filter() to return only even numbers.
 Q.2) Return numbers greater than 10 from a list.
 Q.3) Return only negative numbers from a list.
 Q.4) Given a list of strings, return words whose length is greater than 4.
+Q.5) Return numbers divisible by 3.
