@@ -9,15 +9,16 @@ class Student :
         
     # Defining the method to print the average of the marks along with the student details 
     def average_marks(self) :
-        count = 0
-        sum = 0
-        for item in self.marks :
-            count += 1
-            sum += item
+        # count = 0
+        # sum = 0
+        # for item in self.marks :
+        #     count += 1
+        #     sum += item
+        result = sum(self.marks)/len(self.marks)
             
         print(f"Name : {self.name}")
-        print(f"Average marks : {sum/count}")
-        
+        print(f"Average marks : {result}")
+         
 # Creating an object
 S1 = Student("Vijay", [93, 95, 99])
 
