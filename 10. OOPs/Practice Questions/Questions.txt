@@ -1,0 +1,2 @@
+# Questions :
+Q.1) Create a class that takes name & marks of 3 subjects as an arguments in contructor. Then create a nethod to print the average of the marks.
